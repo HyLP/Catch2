@@ -1,0 +1,12 @@
+main: eu.hyfoxkarm.Main
+version: 0.1
+name: Catch
+author: HyLP/FOXTROT/Karma
+
+commands:
+  catch:
+    description: List of commands!
+    aliases: [ch]
+  test:
+    description: List of commands!
+    aliases: [te]
